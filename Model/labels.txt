@@ -1,0 +1,5 @@
+0 (Koin tidak Terdeteksi
+1 (Koin 100 Terdeteksi)
+2 (Koin 200 Terdeteksi)
+3 (Koin 500 Terdeteksi)
+4 (Koin 1000 Terdeteksi)
